@@ -1,4 +1,6 @@
-# test-app
+# Flexified Demo
+
+This repo is demonstrating how [Flexified](https://github.com/tsirilson/flexified) works.
 
 ## Project setup
 ```
